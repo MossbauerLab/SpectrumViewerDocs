@@ -16,3 +16,7 @@ SpectrunViewer application that is designed for view and simple math transformat
 
 # X. Распространение
   Менеджер пакетов Chocolatey
+  
+# Videos on YouTube:
+Playlist with features:
+https://www.youtube.com/watch?v=WwTFIBHO5KM&list=PLQhqZZYSafERSW4rqZW7VXzas0vHFwJy3
