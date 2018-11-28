@@ -1,0 +1,13 @@
+Comparing to non public v1.0 there were made following chnges:
+
+- Better user interface
+- Additional simple transformation (relative and absolute summ)
+- Muleiple spectra could be processed simultaneously
+- Spectrum graphical edit mode
+
+»зменени€ относительно версии 1.0:
+
+- Ѕоллее качественный интерфейс пользовател€
+- ƒобавлен способ преобразовани€ (относительное (с весами) и абсолютное суммирование спектров) 
+- Ѕолее одного спектра теперь могут просматриватьс€/обрабатыватьс€ параллельно
+- –ежим графического редактировани€ точек спектра
