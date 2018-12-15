@@ -1,16 +1,19 @@
 # SpectrumViewerDocs
-Documentation for SpectrumViewer software
-
-...IS UNDER CONSTRUCTION ...
+Documentation for SpectrumViewer software.
 
 # EN
 # 1. General overview
-SpectrunViewer application that is designed for view and simple math transformation of Mossbquer spectra.
+SpectrunViewer application is a simple utility that allows:
+   1. Transform spectra in one format to another (there are three of them: ASC (text, Univem MS), .SPC (binary, raw spectrometer format and .DAT (text, for export in table processors i.e. MS Excel and others)
+   2. Simple math transformation scaling, inversion, summ and subtraction, full docs see here: https://github.com/MossbauerLab/SpectrumViewerDocs/tree/master/2.0
+   3. Edit spectrum points (artifact points correction).
 
 # 2. Distribution
-  Chocolatey package manager
+  Chocolatey package:https://chocolatey.org/packages/spectrumviewer
+  For first run in Win10 software might be runned with admin rights (for ngen compilation)
   
 # 3. Video on YouTube
+
 
 # RU
 # 1. Общее описание
