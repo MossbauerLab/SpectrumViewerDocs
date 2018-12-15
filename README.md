@@ -13,7 +13,7 @@ SpectrunViewer application is a simple utility that allows:
   For first run in Win10 software might be runned with admin rights (for ngen compilation)
   
 # 3. Video on YouTube
-
+  See some of spectrum viewer features usage here: https://www.youtube.com/watch?v=WwTFIBHO5KM&list=PLQhqZZYSafERSW4rqZW7VXzas0vHFwJy3
 
 # RU
 # 1. Общее описание
